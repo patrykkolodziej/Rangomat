@@ -3,3 +3,4 @@
 Rangomat to prosty bot napisany w javascript służący do zautomatyzowania nadawania ról na serwerze discord zależnie od posiadanych statystyk w grze PUBG.
 
 
+[Oparte na](https://github.com/CappeDiem/Discord.js-bot-template) 
